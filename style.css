@@ -19,6 +19,10 @@ p.list {
   line-height: 18px;
 }
 
+p.view {
+  max-width: 28rem;
+}
+
 img,
 video {
   height: auto;
