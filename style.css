@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-size: 18px;
+  font-size: 21px;
 }
 
 *, *:before, *:after {
@@ -16,7 +16,7 @@ body {
 }
 
 p.list {
-  line-height: 18px;
+  line-height: 24px;
 }
 
 p.view {
