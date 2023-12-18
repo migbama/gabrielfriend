@@ -15,6 +15,27 @@ body {
   margin-bottom: 0;
   color: #751111;
   background-color: #F5F3F0;
+  max-width: 36rem;
+  line-height: 28px;
+}
+
+a:link {
+  color: #751111;
+}
+
+/* visited link */
+a:visited {
+  color: #751111;
+}
+
+/* mouse over link */
+a:hover {
+  color: #751111;
+}
+
+/* selected link */
+a:active {
+  color: #751111;
 }
 
 p.list {
