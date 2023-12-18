@@ -13,29 +13,29 @@ body {
   font-family: 'EB Garamond', serif;
   margin-top: 5%;
   margin-bottom: 0;
-  color: #111177;
-  background-color: #F2F2F2;
-  max-width: 24rem;
+  color: #000000;
+  background-color: #F1E1D1;
+  max-width: 20rem;
   line-height: 26px;
 }
 
 a:link {
-  color: #111177;
+  color: #000000;
 }
 
 /* visited link */
 a:visited {
-  color: #111177;
+  color: #000000;
 }
 
 /* mouse over link */
 a:hover {
-  color: #000000;
+  color: #111177;
 }
 
 /* selected link */
 a:active {
-  color: #111177;
+  color: #000000;
 }
 
 p.list {
@@ -43,8 +43,8 @@ p.list {
 }
 
 p.view {
-  max-width: 24rem;
-  color: #111177;
+  max-width: 20rem;
+  color: #000000;
 }
 
 img,
