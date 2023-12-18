@@ -13,19 +13,19 @@ body {
   font-family: 'EB Garamond', serif;
   margin-top: 5%;
   margin-bottom: 0;
-  color: #751111;
+  color: #111177;
   background-color: #FAF9F7;
   max-width: 24rem;
   line-height: 26px;
 }
 
 a:link {
-  color: #751111;
+  color: #111177;
 }
 
 /* visited link */
 a:visited {
-  color: #751111;
+  color: #111177;
 }
 
 /* mouse over link */
@@ -35,7 +35,7 @@ a:hover {
 
 /* selected link */
 a:active {
-  color: #751111;
+  color: #111177;
 }
 
 p.list {
