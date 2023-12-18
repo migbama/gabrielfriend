@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-size: 24px;
+  font-size: 21px;
 }
 
 *, *:before, *:after {
@@ -16,7 +16,7 @@ body {
   color: #751111;
   background-color: #F5F3F0;
   max-width: 36rem;
-  line-height: 28px;
+  line-height: 25px;
 }
 
 a:link {
@@ -43,7 +43,7 @@ p.list {
 }
 
 p.view {
-  max-width: 36rem;
+  max-width: 28rem;
 }
 
 img,
