@@ -15,8 +15,8 @@ body {
   margin-bottom: 0;
   color: #751111;
   background-color: #F5F3F0;
-  max-width: 36rem;
-  line-height: 25px;
+  max-width: 24rem;
+  line-height: 26px;
 }
 
 a:link {
@@ -43,7 +43,7 @@ p.list {
 }
 
 p.view {
-  max-width: 28rem;
+  max-width: 24rem;
 }
 
 img,
