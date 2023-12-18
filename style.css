@@ -15,7 +15,7 @@ body {
   margin-bottom: 0;
   color: #111177;
   background-color: #f2f2f2;
-  max-width: 48rem;
+  max-width: 33rem;
   line-height: 30px;
 }
 
@@ -43,7 +43,7 @@ p.list {
 }
 
 p.view {
-  max-width: 24rem;
+  max-width: 33rem;
   color: #111177;
 }
 
