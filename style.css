@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-size: 21px;
+  font-size: 30px;
 }
 
 *, *:before, *:after {
@@ -8,43 +8,39 @@ html {
 }
 
 body {
-  margin: 5%;
-  margin-right: 5%;
-  font-family: 'EB Garamond', serif;
-  margin-top: 5%;
-  margin-bottom: 0;
-  color: #771111;
+  margin: 2rem;
+  margin-right: 2rem;
+  font-family: sans-serif;
+  margin-top: 2rem;
+  margin-bottom: 0px;
+  color: #000000;
   background-color: #FFFFFF;
   max-width: 24rem;
-  line-height: 30px;
+  line-height: 36px;
 }
 
 a:link {
-  color: #771111;
+  color: #000000;
 }
 
 /* visited link */
 a:visited {
-  color: #771111;
+  color: #000000;
 }
 
 /* mouse over link */
 a:hover {
-  color: #FF96C8;
+  background-color: #0000FF;
 }
 
 /* selected link */
 a:active {
-  color: #771111;
-}
-
-p.list {
-  line-height: 30px;
+  color: #000000;
 }
 
 p.view {
   max-width: 24rem;
-  color: #771111;
+  color: #000000;
 }
 
 img,
